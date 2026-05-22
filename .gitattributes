@@ -1,0 +1,6 @@
+* text=auto eol=lf
+*.php text working-tree-encoding=UTF-8
+*.sql text working-tree-encoding=UTF-8
+*.js text
+*.css text
+*.svg text
